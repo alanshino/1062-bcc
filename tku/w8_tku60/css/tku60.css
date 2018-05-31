@@ -13,7 +13,7 @@
 }
 
 #aside {
-    width: 300px;
+    width: 294px;
     height: 100%;
     background-color: #000066;
     float: right;
@@ -24,10 +24,11 @@
     height: 70px;
 }
 
-.tkuitem img:hover{
+.tkuitem img:hover {
     cursor: pointer;
 }
-.tkuitem{
+
+.tkuitem {
     background-color: #c6b9aa;
     margin: 3px;
 }
